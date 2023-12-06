@@ -1,0 +1,2 @@
+# Predictive-Modeling-with-XGBoost
+This program demonstrates advanced predictive modeling using the XGBoost algorithm. It begins by loading a dataset and performs feature engineering, including extracting year and month from a datetime column and handling categorical features. The XGBoost classifier is then employed for training the model. The program evaluates the model's performance using accuracy metrics and a classification report. Feature engineering techniques and a powerful boosting algorithm contribute to the advanced nature of this program.
